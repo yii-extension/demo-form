@@ -1,0 +1,12 @@
+#!/usr/bin/env php
+<?php
+
+declare(strict_types=1);
+
+use App\Runner\ConsoleApplicationRunner;
+
+require_once __DIR__ . '/preload.php';
+
+// Run console application runner
+$runner = new ConsoleApplicationRunner($_ENV['YII_DEBUG'], $_ENV['YII_ENV']);
+$runner->run();
