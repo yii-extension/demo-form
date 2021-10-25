@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "e830bb238f117b4acaac333d405157e7",
+    "content-hash": "c6a8c35e4dc620d7ff020743a7499a05",
     "packages": [
         {
             "name": "alexkart/curl-builder",
@@ -3263,21 +3263,21 @@
         },
         {
             "name": "yiisoft/html",
-            "version": "2.2.0",
+            "version": "2.2.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/yiisoft/html.git",
-                "reference": "251bd2cd0ca3186385a19c0f998f65b59433f1d1"
+                "reference": "02633b6e7a7bbbb1848b75796a6a518f4a07d932"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/yiisoft/html/zipball/251bd2cd0ca3186385a19c0f998f65b59433f1d1",
-                "reference": "251bd2cd0ca3186385a19c0f998f65b59433f1d1",
+                "url": "https://api.github.com/repos/yiisoft/html/zipball/02633b6e7a7bbbb1848b75796a6a518f4a07d932",
+                "reference": "02633b6e7a7bbbb1848b75796a6a518f4a07d932",
                 "shasum": ""
             },
             "require": {
                 "php": "^7.4|^8.0",
-                "yiisoft/arrays": "^1.0",
+                "yiisoft/arrays": "^1.0|^2.0",
                 "yiisoft/json": "^1.0"
             },
             "require-dev": {
@@ -3319,7 +3319,7 @@
                     "type": "opencollective"
                 }
             ],
-            "time": "2021-10-20T22:52:40+00:00"
+            "time": "2021-10-24T21:06:33+00:00"
         },
         {
             "name": "yiisoft/http",
