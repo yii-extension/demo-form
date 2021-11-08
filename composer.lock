@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "e830bb238f117b4acaac333d405157e7",
+    "content-hash": "c6a8c35e4dc620d7ff020743a7499a05",
     "packages": [
         {
             "name": "alexkart/curl-builder",
@@ -3386,16 +3386,16 @@
         },
         {
             "name": "yiisoft/i18n",
-            "version": "1.0.0",
+            "version": "1.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/yiisoft/i18n.git",
-                "reference": "4bbea1058d81350b94e2b21831c42563184063c5"
+                "reference": "b56c77d981d5bbf672be45493867e3ccaa49fb26"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/yiisoft/i18n/zipball/4bbea1058d81350b94e2b21831c42563184063c5",
-                "reference": "4bbea1058d81350b94e2b21831c42563184063c5",
+                "url": "https://api.github.com/repos/yiisoft/i18n/zipball/b56c77d981d5bbf672be45493867e3ccaa49fb26",
+                "reference": "b56c77d981d5bbf672be45493867e3ccaa49fb26",
                 "shasum": ""
             },
             "require": {
@@ -3418,17 +3418,17 @@
                 "BSD-3-Clause"
             ],
             "description": "Yii i18n",
-            "homepage": "http://www.yiiframework.com/",
+            "homepage": "https://www.yiiframework.com/",
             "keywords": [
                 "i18n",
                 "locale"
             ],
             "support": {
-                "forum": "http://www.yiiframework.com/forum/",
+                "forum": "https://www.yiiframework.com/forum/",
                 "irc": "irc://irc.freenode.net/yii",
                 "issues": "https://github.com/yiisoft/i18n/issues?state=open",
                 "source": "https://github.com/yiisoft/i18n",
-                "wiki": "http://www.yiiframework.com/wiki/"
+                "wiki": "https://www.yiiframework.com/wiki/"
             },
             "funding": [
                 {
@@ -3440,7 +3440,7 @@
                     "type": "open_collective"
                 }
             ],
-            "time": "2020-12-25T23:26:44+00:00"
+            "time": "2021-11-05T23:04:25+00:00"
         },
         {
             "name": "yiisoft/injector",
