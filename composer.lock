@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "e830bb238f117b4acaac333d405157e7",
+    "content-hash": "c6a8c35e4dc620d7ff020743a7499a05",
     "packages": [
         {
             "name": "alexkart/curl-builder",
@@ -3263,29 +3263,29 @@
         },
         {
             "name": "yiisoft/html",
-            "version": "2.2.0",
+            "version": "2.4.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/yiisoft/html.git",
-                "reference": "251bd2cd0ca3186385a19c0f998f65b59433f1d1"
+                "reference": "b12c2e991642097ba4f70a983048d2aaa2cd106b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/yiisoft/html/zipball/251bd2cd0ca3186385a19c0f998f65b59433f1d1",
-                "reference": "251bd2cd0ca3186385a19c0f998f65b59433f1d1",
+                "url": "https://api.github.com/repos/yiisoft/html/zipball/b12c2e991642097ba4f70a983048d2aaa2cd106b",
+                "reference": "b12c2e991642097ba4f70a983048d2aaa2cd106b",
                 "shasum": ""
             },
             "require": {
                 "php": "^7.4|^8.0",
-                "yiisoft/arrays": "^1.0",
+                "yiisoft/arrays": "^1.0|^2.0",
                 "yiisoft/json": "^1.0"
             },
             "require-dev": {
                 "maglnet/composer-require-checker": "^3.3",
                 "phpunit/phpunit": "^9.5",
-                "roave/infection-static-analysis-plugin": "^1.10",
+                "roave/infection-static-analysis-plugin": "^1.16",
                 "spatie/phpunit-watcher": "^1.23",
-                "vimeo/psalm": "^4.10"
+                "vimeo/psalm": "^4.18"
             },
             "type": "library",
             "autoload": {
@@ -3303,6 +3303,7 @@
                 "html"
             ],
             "support": {
+                "chat": "https://t.me/yii3en",
                 "forum": "https://forum.yiiframework.com/",
                 "irc": "irc://irc.freenode.net/yii",
                 "issues": "https://github.com/yiisoft/html/issues?state=open",
@@ -3319,7 +3320,7 @@
                     "type": "opencollective"
                 }
             ],
-            "time": "2021-10-20T22:52:40+00:00"
+            "time": "2022-05-19T08:04:47+00:00"
         },
         {
             "name": "yiisoft/http",
@@ -12048,5 +12049,5 @@
         "php": "^8.0"
     },
     "platform-dev": [],
-    "plugin-api-version": "2.1.0"
+    "plugin-api-version": "2.3.0"
 }
